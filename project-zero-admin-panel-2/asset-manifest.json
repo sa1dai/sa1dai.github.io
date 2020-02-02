@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/project-zero-admin-panel-2/static/css/main.90641b45.chunk.css",
+    "main.js": "/project-zero-admin-panel-2/static/js/main.306e1ba6.chunk.js",
+    "main.js.map": "/project-zero-admin-panel-2/static/js/main.306e1ba6.chunk.js.map",
+    "runtime-main.js": "/project-zero-admin-panel-2/static/js/runtime-main.d9594c30.js",
+    "runtime-main.js.map": "/project-zero-admin-panel-2/static/js/runtime-main.d9594c30.js.map",
+    "static/js/2.c83b9316.chunk.js": "/project-zero-admin-panel-2/static/js/2.c83b9316.chunk.js",
+    "static/js/2.c83b9316.chunk.js.map": "/project-zero-admin-panel-2/static/js/2.c83b9316.chunk.js.map",
+    "index.html": "/project-zero-admin-panel-2/index.html",
+    "precache-manifest.7b446668cfdb9793f4fe9018aff97482.js": "/project-zero-admin-panel-2/precache-manifest.7b446668cfdb9793f4fe9018aff97482.js",
+    "service-worker.js": "/project-zero-admin-panel-2/service-worker.js",
+    "static/css/main.90641b45.chunk.css.map": "/project-zero-admin-panel-2/static/css/main.90641b45.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9594c30.js",
+    "static/js/2.c83b9316.chunk.js",
+    "static/css/main.90641b45.chunk.css",
+    "static/js/main.306e1ba6.chunk.js"
+  ]
+}
