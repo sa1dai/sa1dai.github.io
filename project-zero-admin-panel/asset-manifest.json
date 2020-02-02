@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/stackoverlfow-react-questions/static/css/main.90641b45.chunk.css",
+    "main.js": "/stackoverlfow-react-questions/static/js/main.6a895154.chunk.js",
+    "main.js.map": "/stackoverlfow-react-questions/static/js/main.6a895154.chunk.js.map",
+    "runtime-main.js": "/stackoverlfow-react-questions/static/js/runtime-main.711c8d43.js",
+    "runtime-main.js.map": "/stackoverlfow-react-questions/static/js/runtime-main.711c8d43.js.map",
+    "static/js/2.526e4a44.chunk.js": "/stackoverlfow-react-questions/static/js/2.526e4a44.chunk.js",
+    "static/js/2.526e4a44.chunk.js.map": "/stackoverlfow-react-questions/static/js/2.526e4a44.chunk.js.map",
+    "index.html": "/stackoverlfow-react-questions/index.html",
+    "precache-manifest.47ae344f81f8a7871540a6c6daf6b734.js": "/stackoverlfow-react-questions/precache-manifest.47ae344f81f8a7871540a6c6daf6b734.js",
+    "service-worker.js": "/stackoverlfow-react-questions/service-worker.js",
+    "static/css/main.90641b45.chunk.css.map": "/stackoverlfow-react-questions/static/css/main.90641b45.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.711c8d43.js",
+    "static/js/2.526e4a44.chunk.js",
+    "static/css/main.90641b45.chunk.css",
+    "static/js/main.6a895154.chunk.js"
+  ]
+}
